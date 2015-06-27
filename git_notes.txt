@@ -1,3 +1,9 @@
 git checkout changes the branch
 git push puts your files on your github account
 whoa this is so cool look at me typing things
+git checkout changes the branch
+git push puts your files on your github account
+whoa this is so cool look at me typing things
+git push -u origin <branch name> pushes your changes to the github and updates your changes, syncs terminal with github
+git commit -m "notes about your changes" , this allows you to make notes about a specific file and what changes you made, so that would be helpful in determaining where you are if you need to look back at code.
+git status is pretty cool. It tells you currently where you are and what's going on, super helpful, and you can't use this enough!
