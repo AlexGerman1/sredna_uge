@@ -1,0 +1,3 @@
+git checkout changes the branch
+git push puts your files on your github account
+whoa this is so cool look at me typing things
