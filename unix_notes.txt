@@ -1,0 +1,95 @@
+#this is listing the files
+ls
+#changes the directory to the documents folder
+cd /home/srednakun/Documents
+#change the directory to documents
+cd /Documents
+#list every file in the directory
+ls -l
+#lists everything in hello.txt
+ls -l/Documents/hello.txt
+#kills whatever program is running
+cntr c
+#show whats in the moving around txt
+ls moving_around.txt
+ls -t
+history | less
+history
+clear
+q
+git --help
+git exit
+git push -u origin master
+git remote add origin https://github.com/srednakun/SrednaStorage.git
+git commit -m "first commit"
+pwd
+cd ..
+cd
+cd ../..
+ls .
+.
+ls -rt
+ls /
+ls ~
+cd ~
+cd
+push -u origin $clear
+cd ../workspace
+cd /home/srednakun/
+cd drwxr-xr-x 2
+cd documents
+cd drqxr-xr-x
+cd drwxr
+cd /home
+etc
+ls -etc
+ls -d
+ls -de
+ls -def
+ls -abc
+ls -b
+ls -a
+ls -lt
+cd /
+exit
+cd user
+cd home
+cd ~/srednakun
+cmd
+git config --global user.name "Sredna Kunowski"
+git config --global user.email "srednakun@gmail.com"
+git status
+..
+git init
+git init git add README.md
+git init/git add README.md/git commit -m "first commit"
+echo "# SrednaStorage" >> README.md
+help
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Sredna Kunowski'git config --global user.email 'srednakun@gmail.com'
+git --version
+sudo apt-get install -y git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ccsm Sublime Text
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudo apt-get install <ruby>r
+sudo ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+sudo apt-get install gitk
+sudo apit-get install gitk
+gitk
+sudo apt-get install git
